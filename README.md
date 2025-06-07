@@ -1,16 +1,26 @@
-# Project Title
+# 🚀 Task Management App
 
-Short project description here.
+📝 A simple and effective task management app to help you organize your day easily.
 
-## Live Demo
+---
 
-[Live Demo Link](https://taskmed.netlify.app/)
+## 🌐 Live Demo
 
-## Source Code
+Try the app live here:  
+[✨ Live Demo Link](https://taskmed.netlify.app/)
 
-Check out the full source code on [GitHub](https://github.com/medouissadane/Task-Management)
+---
 
-## How to Run
+## 🐙 Source Code
 
-// instructions...
+Check out the full source code on GitHub:  
+[🔗 GitHub Repo](https://github.com/medouissadane/Task-Management)
 
+---
+
+## ⚙️ How to Run
+
+1. Clone the repo:
+
+```bash
+git clone https://github.com/medouissadane/Task-Management.git
